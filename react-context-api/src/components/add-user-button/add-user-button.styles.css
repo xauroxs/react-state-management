@@ -1,0 +1,16 @@
+.addUserButton {
+  width: 100%;
+
+  padding: 10px;
+
+  background-color: #3396e7;
+
+  color: white;
+  font-size: 20px;
+
+  outline: none;
+  border: none;
+  border-radius: 5px;
+
+  cursor: pointer;
+}

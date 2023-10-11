@@ -1,0 +1,14 @@
+.usersList {
+  display: flex;
+  flex-direction: column;
+}
+
+.userItem {
+  width: 100%;
+
+  padding: 5px;
+
+  font-size: 20px;
+
+  text-align: center;
+}
